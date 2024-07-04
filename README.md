@@ -8,7 +8,6 @@ Esse repositório irá conter:
 - Estudos sobre POO em C#
 - Operações com Banco de Dado(Mysql Server)
 - Criação de aplicativos para realiar gerenciamento de servidores
-- ✨e muito mais ✨
 
 ## Sobre Mim
 Atualmente trabalho como Analista de Suporte Júnior em uma empresa de automação comercial
