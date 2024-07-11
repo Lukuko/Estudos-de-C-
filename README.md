@@ -1,7 +1,7 @@
 # Estudos sobre C#
 ## _Objetivo do repositório_
 
-Tenho planos de 6 meses até 1 ano conseguir me tornar Dev C# júnior, esse repositório irá registrar
+Tenho planos de me tornar Dev C# júnior, esse repositório irá registrar
 toda a minha jornada aprendendo essa linguagem
 
 Esse repositório irá conter:
